@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcGreeterServer", "GrpcGreeterServer\GrpcGreeterServer.csproj", "{38560FCA-55CE-4A01-8FA2-E36A0DBCA4B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcGreeterClient", "GrpcGreeterClient\GrpcGreeterClient.csproj", "{5C239474-1A21-4052-A9BF-ACA85449C243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38560FCA-55CE-4A01-8FA2-E36A0DBCA4B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38560FCA-55CE-4A01-8FA2-E36A0DBCA4B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38560FCA-55CE-4A01-8FA2-E36A0DBCA4B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38560FCA-55CE-4A01-8FA2-E36A0DBCA4B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C239474-1A21-4052-A9BF-ACA85449C243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C239474-1A21-4052-A9BF-ACA85449C243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C239474-1A21-4052-A9BF-ACA85449C243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C239474-1A21-4052-A9BF-ACA85449C243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
